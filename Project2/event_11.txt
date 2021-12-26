@@ -1,0 +1,11 @@
+-100 ; what does it take to get a blue block
+-80 ; give me that blue block
+-60 ; can someone just give me that blue block
+-40 ; why wont anyone give me something blue
+-20 ; could I get a blue block for a change
+0 ; give me that blue block
+20 ; could someone give me that blue block please
+40 ; could I have that blue block please
+60 ; I would really like that blue block
+80 ; I could use that blue block right now
+100 ; could you pass the blue block over here please?

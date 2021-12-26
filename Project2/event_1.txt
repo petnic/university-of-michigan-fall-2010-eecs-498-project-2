@@ -1,0 +1,11 @@
+-100 ; Put that back now
+-80 ; leave my blocks alone
+-60 ; don't mess with my things
+-40 ; play with someone else's blocks
+-20 ; that's not very nice
+0 ; why are you touching those?
+20 ; I would like it if you didn't touch those
+40 ; could you find other blocks to play with?
+60 ; Just leave it there please
+80 ; I like them the way that they were arranged, could you put it back 
+100 ; I am happy you like my blocks, but could you put them back

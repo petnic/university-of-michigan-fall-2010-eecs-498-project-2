@@ -1,0 +1,11 @@
+-100 ; just leave it there
+-80 ; whatever, put it there
+-60 ; finally someone gives me something
+-40 ; its good to get something I like for a change
+-20 ; thanks or whatever
+0 ; thank you
+20 ; thank you very much
+40 ; wow, that's really cool thanks
+60 ; Thanks I've been wanting this for awhile
+80 ; Awesome thanks a ton
+100 ; Thanks so much, I love that color a lot

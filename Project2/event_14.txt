@@ -1,0 +1,11 @@
+-100 ; Give me that blue block now
+-80 ; hand over that blue block
+-60 ; I want that blue block
+-40 ; why don't you give me that blue block
+-20 ; what are you doing with that blue block?
+0 ; can I have that blue block?
+20 ; that blue block looks nice
+40 ; I really like that blue block
+60 ; could I have that blue block please?
+80 ; That blue block would really match, could I have it
+100 ; I must have that blue block, could you bring it here please?

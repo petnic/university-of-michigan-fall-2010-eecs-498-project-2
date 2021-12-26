@@ -1,0 +1,11 @@
+-100 ; Why don't you just leave?
+-80 ; What are you even doing over there?
+-60 ; Why aren't you doing anything?
+-40 ; Do you even like me?
+-20 ; Why aren't you coming over here?
+0 ; What are you doing?
+20 ; Hey there
+40 ; How is it going?
+60 ; Hey, come over here, I won't bite
+80 ; Hey want to see something cool?
+100 ; Take a look at these cool blocks

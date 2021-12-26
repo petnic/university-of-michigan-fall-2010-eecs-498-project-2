@@ -1,0 +1,11 @@
+-100 ; Get that green block away from me
+-80 ; I hate that color, green is gross
+-60 ; green is really ugly
+-40 ; I don't like green, why would you think that
+-20 ; why would I like that color?
+0 ; green isn't really my color
+20 ; what other colors do you have?
+40 ; I'm not really a green person
+60 ; I could really go for a different color
+80 ; nice color, but i'm not a big fan
+100 ; Thanks for the suggestion, but do you have something else

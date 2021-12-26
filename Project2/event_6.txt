@@ -1,0 +1,11 @@
+-100 ; get that red block out of my sight
+-80 ; move that ugly red block
+-60 ; that red block is giving me a headache
+-40 ; I hate that red block
+-20 ; who put that red block there
+0 ; move that red block
+20 ; could someone move this red block
+40 ; could you please move this red block 
+60 ; can someone find something better than this red block
+80 ; I would like it if someone moved this red block
+100 ; Excuse me, could you move this red block

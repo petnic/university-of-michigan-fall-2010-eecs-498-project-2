@@ -1,0 +1,11 @@
+-100 ; what does it take to get a green block
+-80 ; give me that green block
+-60 ; can someone just give me that green block
+-40 ; why wont anyone give me something green
+-20 ; could I get a green block for a change
+0 ; give me that green block
+20 ; could someone give me that green block please
+40 ; could I have that green block please
+60 ; I would really like that green block
+80 ; I could use that green block right now
+100 ; could you pass the green block over here please?

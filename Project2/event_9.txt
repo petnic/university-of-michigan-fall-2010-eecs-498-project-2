@@ -1,0 +1,11 @@
+-100 ; what does it take to get a red block
+-80 ; give me that red block
+-60 ; can someone just give me that red block
+-40 ; why wont anyone give me something red
+-20 ; could I get a red block for a change
+0 ; give me that red block
+20 ; could someone give me that red block please
+40 ; could I have that red block please
+60 ; I would really like that red block
+80 ; I could use that red block right now
+100 ; could you pass the red block over here please?
